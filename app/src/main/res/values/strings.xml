@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListVeiwXml</string>
+
+    <string-array name="region_list"> //定義清單資料
+        <item>Item_1</item>
+        <item>Item_2</item>
+        <item>Item_3</item>
+        <item>Item_4</item>
+    </string-array>
+
+</resources>
